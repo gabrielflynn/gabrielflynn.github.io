@@ -1,0 +1,98 @@
+body{
+	font-family: "Arial", serif;
+	color: black;
+}
+
+.nav{
+	list-style: none;
+	text-align: right;
+}
+
+.nav > li {
+	display: inline-block;
+	padding: 0 25px 0 25px;
+	font-size: 15px;
+}
+
+.nav > li > a {
+	text-decoration: none;
+	color: black;
+}
+
+.nav > li > a:hover{
+	color: gray;
+}
+
+.banner{
+	width: 100%;
+	display: block;
+}
+
+.banner > .banner-img{
+	width: 100%;
+	display: block;
+}
+
+.title{
+	padding-top: 0;
+}
+
+.about{
+	font-family: "Arial", serif;
+	font-size: 15px;
+	text-align: justify;
+	margin: 0 auto;
+	width: 40em;
+	padding-bottom: 10px;
+}
+
+.name{
+	color: black;
+	float: left;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.portfolio{
+	color: black;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.portfolio > .port-links{
+	font-weight: normal;
+}
+
+.contact{
+	font-size: 15px;
+	font-weight: bold;
+	color: black;
+}
+
+.contact-links{
+	font-weight: normal;
+}
+
+h1{
+	font-family: "Arial", serif;
+	text-align: center;
+	color: black;
+	font-size: 75px;
+}
+
+p{
+	text-align: center;
+	color: black;
+	font-size: 25px;
+}
+
+a{
+	font-size: 15px;
+	text-decoration: none;
+	color: black;
+	text-align:center;
+}
+
+a:hover{
+	color: gray;
+}
