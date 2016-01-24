@@ -1,10 +1,10 @@
-{
+*{
 	margin: 0;
 	padding: 0;
 }
 
 .banner{
-	background-image: url(DSC_0030.jpg);
+	background-image: url(https://cloud.githubusercontent.com/assets/15823324/12535241/a116b21a-c231-11e5-8992-3429c9c9352d.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	position: center;
