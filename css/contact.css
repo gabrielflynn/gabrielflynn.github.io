@@ -1,1 +1,108 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.banner{
+	background-image: url(IMG_0806.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	position: center;
+	display: block;
+}
+
+ul {
+	padding: 20px;
+	list-style: none;
+	text-align: right;
+}
+
+ul > li{
+	display: inline-block;
+	padding: 0 25px 0 25px;
+	font-size: 15px;
+	font-weight: normal;
+	font-family: "Arial", serif;
+}
+
+ul > li > a{
+	text-decoration: none;
+	color: white;
+}
+
+ul > li > a:hover{
+	color: black;
+}
+
+.header {
+	padding: 290px;
+	font-family: "Arial", serif;
+	font-size: 75px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.info{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.description3{
+	font-family: "Arial", serif;
+	font-size: 15px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.description3 > .contact-links{
+	font-size: 15px;
+	font-family: "Arial", serif;
+	font-weight: normal;
+	text-decoration: none;
+	color: black;
+}
+
+.description3 > .contact-links:hover{
+	color: gray;
+}
+
+
+.footer{
+	background-color: black;
+	padding: 25px;
+
+}
+
+.listfoot{
+	position: bottom;
+	padding: 10px;
+	list-style: none;
+	text-align: center;
+}
+
+.listfoot > .lifo{
+	display: inline-block;
+	padding: 0 25px 0 25px;
+	font-size: 17px;
+	font-weight: normal;
+	font-family: "Arial", serif;
+}
+
+.listfoot > .lifo > .linkfo{
+	text-decoration: none;
+	color: white;
+}
+
+.listfoot > .lifo > .linkfo:hover{
+	text-decoration: underline;
+}
+
+
+
+
+
+
 
